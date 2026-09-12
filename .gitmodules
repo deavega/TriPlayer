@@ -1,0 +1,24 @@
+[submodule "Overlay/libTesla"]
+	path = Overlay/libs/libTesla
+	url = https://github.com/WerWolv/libTesla
+[submodule "Application/libs/Aether"]
+	path = Application/libs/Aether
+	url = https://github.com/tallbl0nde/Aether.git
+[submodule "Application/libs/dtl"]
+	path = Application/libs/dtl
+	url = https://github.com/cubicdaiya/dtl
+[submodule "Application/libs/json"]
+	path = Application/libs/json
+	url = https://github.com/nlohmann/json.git
+[submodule "Common/libs/splash/splash"]
+	path = Common/libs/splash/splash
+	url = https://github.com/tallbl0nde/splash
+[submodule "Application/libs/avir"]
+	path = Application/libs/avir
+	url = https://github.com/avaneev/avir
+[submodule "Common/libs/minIni/minIni"]
+	path = Common/libs/minIni/minIni
+	url = https://github.com/compuphase/minIni
+[submodule "Application/libs/taglib"]
+	path = Application/libs/TagLib/taglib
+	url = https://github.com/taglib/taglib.git

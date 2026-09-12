@@ -1,0 +1,16 @@
+.vscode
+.VSCodeCounter
+build/
+exefs/
+lib/
+/psd
+/sdcard
+*.elf
+*.nro
+*.nacp
+*.nsp
+*.nso
+*.npdm
+*.ovl
+.DS_Store
+._*
