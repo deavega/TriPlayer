@@ -1,8 +1,8 @@
-# TriPlayer
+# TriPlayer (Updated for Athmosphere 11)
 
 TriPlayer is a feature-rich audio player for the Nintendo Switch. It is able to play music in the background, including when playing games or on the HOME menu. TriPlayer requires a console capable of running Atmosphere. It gained it's name as it consists of **three** separate components, and initially its ability to play MP3 files.
 
-[Download](https://github.com/tallbl0nde/TriPlayer/releases)
+[Download]([https://github.com/tallbl0nde/TriPlayer/releases](https://github.com/deavega/TriPlayer/releases/tag/v1.0.0))
 
 Please see the [wiki](https://github.com/tallbl0nde/TriPlayer/wiki) for a plethora of information regarding installation, compilation, reporting bugs and more!
 
@@ -27,7 +27,6 @@ And many more, download it to see for yourself! :)
   * MP3
   * WAV
 
-Curious about what's next? See my to-do list on [Trello](https://trello.com/b/teZpHfo1/triplayer)
 
 ## Screenshots
 
@@ -45,10 +44,3 @@ Curious about what's next? See my to-do list on [Trello](https://trello.com/b/te
 
 For a complete list of credits and open source libraries used, please see the About tab in the application's settings!
 
-## Support <3
-
-There is absolutely no obligation, however if you have found this software useful you can support me on Ko-fi!
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J718RRQ)
-
-Knowing my software is being used is enough to motivate me to continue work on it!
